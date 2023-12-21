@@ -28,7 +28,7 @@
     UserIcon } from "@heroicons/vue/24/outline";
 
     const links = [
-        {name: "Home", icon: HomeIcon},
+        {name: "home", icon: HomeIcon},
         {name: "Trending", icon: BoltIcon},
         {name: "Verified", icon: CheckBadgeIcon},
         {name: "Collections", icon: RectangleStackIcon},
