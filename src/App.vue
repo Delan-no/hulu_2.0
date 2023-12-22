@@ -1,10 +1,11 @@
 <template>
 
   <HeaderComp />
-  <NavBar />
-
+  
   <main>
-
+    <NavBar />
+    <!-- partie qui sera rendue dynamiquement -->
+    <router-view></router-view>
   </main>
 </template>
 
